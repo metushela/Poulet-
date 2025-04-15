@@ -1,0 +1,28 @@
+# Fichiers système
+.DS_Store
+*.swp
+
+# Android/IntelliJ
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/misc.xml
+*.iml
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Log/Debug
+*.log
+
+# NDK
+obj/
+
+# Jetpack Compose
+.kotlinc/
